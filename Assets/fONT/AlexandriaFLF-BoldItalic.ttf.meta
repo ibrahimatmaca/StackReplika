@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 5d4dc4858b9a44843a19e6e5bb71a49a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: AlexandriaFLF
+  fontNames:
+  - AlexandriaFLF
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0174c135060ba1943bd253ad2aeeea86, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
